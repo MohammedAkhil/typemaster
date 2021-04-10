@@ -1,0 +1,11 @@
+.preview {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.typing-test {
+  padding: 0.5rem;
+  background-color: white;
+  min-width: 320px;
+  width: 66%;
+}
